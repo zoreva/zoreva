@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zoreva
+- 👀 I’m interested in React JS with NodeJS
+- 🌱 I’m currently learning React advanced,backend best practices
+- 📫 How to reach me? Write me instagram https://www.instagram.com/webreznov/
